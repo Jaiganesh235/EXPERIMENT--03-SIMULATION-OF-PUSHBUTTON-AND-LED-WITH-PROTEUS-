@@ -76,6 +76,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## Output screen shots of proteus  :
+![Screenshot (17)](https://github.com/user-attachments/assets/f98b6aa0-4fd7-4db8-83ee-920f5b57c26e)
 
 
 
